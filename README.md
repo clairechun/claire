@@ -13,7 +13,7 @@
 <!-- Add link to your picture -->
 
 <!-- ![](https://github.com/clairechun/claire/blob/main/Photo1.jpg | width=100) -->
-<img src="https://github.com/clairechun/claire/blob/main/Photo1.jpg" alt="kittyotamatone" width="200"/>
+<img src="https://github.com/clairechun/claire/blob/main/Photo1.jpg" alt="kittyotamatone" width="200">
 <img src="https://cdn.discordapp.com/attachments/354110185230434304/854664619616370719/Photo1.jpg" width="200">
 
 
