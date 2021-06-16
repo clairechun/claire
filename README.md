@@ -61,8 +61,11 @@ Engineering Graduate 2010-14, First Division
 
 <!-- Add your details -->
 
-#### Classification based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
+#### Microphone based projects
+Behold my microphone.  It's bigger than I am.
+It is from China but it makes me squeak, as you can see from the frequency diagram.
+![](http://www.mxlmics.com/microphones/studio/990/images/polar-pattern.gif)
+<!-- ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)-->
 
 In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
 
